@@ -17,3 +17,6 @@ Challenge 14
 <img width="1213" alt="Screen Shot 2021-10-13 at 12 46 04 AM" src="https://user-images.githubusercontent.com/25726054/137069755-4e93a4aa-1004-470a-b79e-2ec1dad0d2ec.png">
 
 6.
+<img width="1195" alt="Screen Shot 2021-10-13 at 12 46 23 AM" src="https://user-images.githubusercontent.com/25726054/137069810-8f7aae4c-9b63-4c64-b8cd-d18f187fd1cc.png">
+
+7.
