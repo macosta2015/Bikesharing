@@ -55,5 +55,5 @@ Challenge 14
 <img width="335" alt="5" src="https://user-images.githubusercontent.com/25726054/137070049-5d160533-9b16-4fe7-ba75-e35ce133df4b.png">
 
 ## Deliverable 3 Requirements
-##### Please take at the following 
+##### Please look at the following 
 <img width="1175" alt="Screen Shot 2021-10-13 at 12 47 06 AM" src="https://user-images.githubusercontent.com/25726054/137069887-48585a65-9a99-45d2-bbee-83b8140edec0.png">
