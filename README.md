@@ -1,6 +1,7 @@
 # NY_Citibike_Tableau
 Challenge 14
 
+#### Tableau is a new tool that we discovered. It is used for data visualization, specially on the ease on created the data visuzalication. An important thing is to know which typr of variable you are using and if it is compatible. 
 
 ##CLASSWORK
 
