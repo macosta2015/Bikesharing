@@ -58,4 +58,5 @@ Challenge 14
 
 ## Deliverable 3, story
 ##### Please look at the following 
+##### It is possible to see the starting location and then the ending location. 
 <img width="1175" alt="Screen Shot 2021-10-13 at 12 47 06 AM" src="https://user-images.githubusercontent.com/25726054/137069887-48585a65-9a99-45d2-bbee-83b8140edec0.png">
