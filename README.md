@@ -2,7 +2,7 @@
 Challenge 14
 
 #### Tableau is a new tool that we discovered. It is used for data visualization, specially on the ease on creating data visuzalication. An important thing is to know which type of variable you are using and if it is compatible. 
-#### We are going to use data from Citi byciles used in New York. They are going to be read from an excel. 
+#### We are going to use data from Citi byciles used in New York. They are going to be read from an excel file and the data typw will be changed.
 
 ##CLASSWORK
 
