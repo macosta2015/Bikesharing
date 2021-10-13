@@ -31,23 +31,29 @@ Challenge 14
 9.
 <img width="1175" alt="Screen Shot 2021-10-13 at 12 47 06 AM" src="https://user-images.githubusercontent.com/25726054/137069887-48585a65-9a99-45d2-bbee-83b8140edec0.png">
 
-## CHALLENGE 
-## Deliverable 2: Create Visualizations for the Trip Analysis (50 points)
+## Deliverable 2: Create Visualizations for the Trip Analysis 
 
 1.
 #### Create the Checkout Times for Users Viz
 <img width="917" alt="1" src="https://user-images.githubusercontent.com/25726054/137069981-17c331cd-b344-4f67-aa77-145a39ccafd5.png">
 
-#### Create the Checkout Times by Gender Viz
+
 2. 
+#### Create the Checkout Times by Gender Viz
 <img width="963" alt="2" src="https://user-images.githubusercontent.com/25726054/137069997-3df14e6a-a184-4fd3-ba0c-d307b83171c1.png">
  
 3. 
+#### Create the Trips by Weekday for Each Hour Viz
 <img width="473" alt="3" src="https://user-images.githubusercontent.com/25726054/137070006-91c51575-07cd-47cf-967a-616970c51837.png">
 
 4.
+#### Create the Trips by Gender (Weekday per Hour) Viz
 <img width="335" alt="5" src="https://user-images.githubusercontent.com/25726054/137070039-33cd79b7-d64e-42ad-88b2-6ec225bd2dcd.png">
 
 5.
+#### Create the User Trips by Gender by Weekday Viz
 <img width="335" alt="5" src="https://user-images.githubusercontent.com/25726054/137070049-5d160533-9b16-4fe7-ba75-e35ce133df4b.png">
 
+## Deliverable 3 Requirements
+##### Please take at the following 
+<img width="1175" alt="Screen Shot 2021-10-13 at 12 47 06 AM" src="https://user-images.githubusercontent.com/25726054/137069887-48585a65-9a99-45d2-bbee-83b8140edec0.png">
