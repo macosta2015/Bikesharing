@@ -1,6 +1,9 @@
 # NY_Citibike_Tableau
 Challenge 14
 
+## Please see the Dashboard:
+https://public.tableau.com/app/profile/mario.a.acosta/viz/Bootcampchallenge/NYCCitiBike?publish=yes
+
 #### Tableau is a new tool that we discovered. It is used for data visualization especially on the ease on creating data vizualization. An important thing is to know which type of variable you are using and if it is compatible. 
 #### We are going to use data from Citi byciles used in New York. They are going to be read from an excel file and the data type will be changed.
 
